@@ -1,4 +1,4 @@
-,User.ID,Book.Title,Book.Rating
+﻿,User.ID,Book.Title,Book.Rating
 1,276726,Classical Mythology,5
 2,276729,Clara Callan,3
 3,276729,Decision in Normandy,6
@@ -176,31 +176,31 @@
 175,276875,Night Mare (Xanth Novels (Paperback)),4
 176,276875,The Martian Chronicles,8
 177,276875,Kabale Und Liebe,8
-178,276875,Der illustrierte Mann. Erz�?¤hlungen.,8
-179,276875,Der K�?¶nig in Gelb.,7
+178,276875,Der illustrierte Mann. ErzÃ?Â¤hlungen.,8
+179,276875,Der KÃ?Â¶nig in Gelb.,7
 180,276875,Fahrenheit 451,2
-181,276875,Die Mars- Chroniken. Roman in Erz�?¤hlungen.,6
-182,276875,Das B�?¶se kommt auf leisen Sohlen.,6
-183,276875,L�?¶wenzahnwein. Roman.,8
-184,276875,Das Kind von morgen. Erz�?¤hlungen.,8
-185,276878,Die Mechanismen der Freude. Erz�?¤hlungen.,6
-186,276879,Familientreffen. Erz�?¤hlungen.,7
-187,276884,Der Tod kommt schnell in Mexico. Erz�?¤hlungen.,7
+181,276875,Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.,6
+182,276875,Das BÃ?Â¶se kommt auf leisen Sohlen.,6
+183,276875,LÃ?Â¶wenzahnwein. Roman.,8
+184,276875,Das Kind von morgen. ErzÃ?Â¤hlungen.,8
+185,276878,Die Mechanismen der Freude. ErzÃ?Â¤hlungen.,6
+186,276879,Familientreffen. ErzÃ?Â¤hlungen.,7
+187,276884,Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.,7
 188,276884,Veronika Deschliesst Zu Sterben / Vernika Decides to Die,6
 189,276887,Die Liebe in Den Zelten,5
 190,276887,Die Klone der Joanna May. Roman.,9
 191,276888,Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.,6
 192,276896,Haifischfrauen.,10
 193,276904,Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.,10
-194,276904,Schwarzer Tee mit drei Stück Zucker,5
-195,276904,Quersch�?¼sse - Downsize This!,10
+194,276904,Schwarzer Tee mit drei StÃ¼ck Zucker,5
+195,276904,QuerschÃ?Â¼sse - Downsize This!,10
 196,276904,Die Korrekturen.,10
-197,276904,Neun Erz�?¤hlungen.,5
+197,276904,Neun ErzÃ?Â¤hlungen.,5
 198,276905,"Hebt den Dachbalken hoch, Zimmerleute / Seymour wird vorgestellt.",8
-199,276905,"Ulysses (�?�?bersetzg. Wollschl�?¤ger). ( Neue Folge, 100).",5
-200,276911,Eine ganz normale Aff�?¤re.,8
+199,276905,"Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge, 100).",5
+200,276911,Eine ganz normale AffÃ?Â¤re.,8
 201,276911,"Das Intimleben des Adrian Mole, 13 3/4 Jahre. cbt. ( Ab 14 J.).",9
-202,276911,Das Buch der l�?¤cherlichen Liebe.,9
+202,276911,Das Buch der lÃ?Â¤cherlichen Liebe.,9
 203,276912,The God of Small Things,6
 204,276912,The James Dean Affair: A Neil Gulliver &amp; Stevie Marriner Novel,6
 205,276915,The Big Bad Wolf: A Novel,7
@@ -330,7 +330,7 @@
 329,276986,Waiting,10
 330,276986,Nowhere To Run,10
 331,276986,Frankenstein (Dover Thrift Editions),10
-332,276988,El gust amarg de la cervesa (Collecció Clàssica),7
+332,276988,El gust amarg de la cervesa (CollecciÃ³ ClÃ ssica),7
 333,276988,Urn Burial,7
 334,276988,All Our Yesterdays (Large Print),7
 335,276988,What Shall I Be (Barbie Carryalong),8
@@ -424,24 +424,24 @@
 423,277107,Prozac Nation: Young and Depressed in America : A Memoir,8
 424,277107,The Journey From Here,10
 425,277107,The Four Agreements: A Practical Guide to Personal Freedom,10
-426,277107,El desarrollo de Leonardo da Vinci (Biografías y memorias),5
-427,277107,Gastronomia divina (L'áncora),8
+426,277107,El desarrollo de Leonardo da Vinci (BiografÃ­as y memorias),5
+427,277107,Gastronomia divina (L'Ã¡ncora),8
 428,277107,Desaparecido: LA Autentica Historia De LA Ejecucion De Charles Horman,4
-429,277109,Hotel Europa (El Balancí),5
-430,277109,La dona dels ulls de pluja: Barcelona anys 90 (El Balancí),5
-431,277109,El paraíso (Tiempos modernos),5
-432,277116,Negra i consentida (Col¨lecció El Mirall),8
-433,277124,Essa efa (Col¨lecció El Mirall i el temps),9
+429,277109,Hotel Europa (El BalancÃ­),5
+430,277109,La dona dels ulls de pluja: Barcelona anys 90 (El BalancÃ­),5
+431,277109,El paraÃ­so (Tiempos modernos),5
+432,277116,Negra i consentida (ColÂ¨lecciÃ³ El Mirall),8
+433,277124,Essa efa (ColÂ¨lecciÃ³ El Mirall i el temps),9
 434,277124,Espurnes de sang (La Negra),9
-435,277124,Les llengües d'Africa (Biblioteca universal Empúries),9
-436,277124,Trànsit (Area contemporània),5
+435,277124,Les llengÃ¼es d'Africa (Biblioteca universal EmpÃºries),9
+436,277124,TrÃ nsit (Area contemporÃ nia),5
 437,277128,L'home del sac,6
-438,277128,Gràcies per la propina (Columna),8
+438,277128,GrÃ cies per la propina (Columna),8
 439,277129,El dia que es va cremar el Liceu (La primera Columna),7
-440,277134,Cómo ser una mujer y no morir en el intento (Colección El Papagayo),6
+440,277134,CÃ³mo ser una mujer y no morir en el intento (ColecciÃ³n El Papagayo),6
 441,277135,Una casa en Irlanda,8
-442,277139,La mirada del tafur (Col¨lecció clàssica),8
-443,277143,Amorrada al piló (Columna),10
+442,277139,La mirada del tafur (ColÂ¨lecciÃ³ clÃ ssica),8
+443,277143,Amorrada al pilÃ³ (Columna),10
 444,277143,Blur (Melody Maker),9
 445,277143,War and Peace (Wordsworth Classics),8
 446,277157,A-Z of Behaving Badly,7
@@ -726,24 +726,24 @@
 725,277427,Regain,8
 726,277427,Le Grand Meaulnes (Classiques De Poche),10
 727,277427,A l'Ouest rien de nouveau,6
-728,277427,Pourquoi j'ai mang�?© mon p�?¨re,10
+728,277427,Pourquoi j'ai mangÃ?Â© mon pÃ?Â¨re,10
 729,277427,Ravage,9
-730,277427,Voyage d'une parisienne �?  Lhassa,8
+730,277427,Voyage d'une parisienne Ã?Â  Lhassa,8
 731,277427,Les Fleurs Du Mal,8
 732,277427,Chroniques martiennes,8
 733,277427,Le Diable Au Corps,9
-734,277427,La Faute de l'abb�?© Mouret,10
+734,277427,La Faute de l'abbÃ?Â© Mouret,10
 735,277427,L'Homme Qui Plantait Des Arbres,10
 736,277427,La Guerre Des Boutons,10
 737,277427,Paroles de Poilus : Lettres et carnets du front 1914-1918,9
-738,277427,Une porte sur l'�?©t�?©,9
+738,277427,Une porte sur l'Ã?Â©tÃ?Â©,9
 739,277427,Die Entdeckung der Langsamkeit.,8
 740,277427,Die Grenzen des Geschlechts: Anleitungen zum Sturz des internationalen Patriarchats : Amnesty for Women (Rororo Sachbuch),5
 741,277427,Frauen der Welt: Vom Fortschritt der Ungleichheit,8
-742,277427,I Ging. Das Buch der Wandlung. Das gro�?�?e Weisheits- und Orakelbuch der alten Chinesen.,8
+742,277427,I Ging. Das Buch der Wandlung. Das groÃ?Â?e Weisheits- und Orakelbuch der alten Chinesen.,8
 743,277427,African Women: Their Struggle for Economic Independence,8
 744,277427,Die globalisierte Frau: Berichte aus der Zukunft der Ungleichheit (Frauen aktuell),9
-745,277427,"Women are the Niggers of the World: über Frauen, Herrenmenschen und Nietzsches Peitsche (AtV Dokument und Essay)",8
+745,277427,"Women are the Niggers of the World: Ã¼ber Frauen, Herrenmenschen und Nietzsches Peitsche (AtV Dokument und Essay)",8
 746,277427,Sense and Sensibility (Penguin Popular Classics),8
 747,277427,Der gemietete Mann.,8
 748,277427,Der Gott der kleinen Dinge.,10
@@ -802,8 +802,8 @@
 801,277427,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",5
 802,277427,TERROR FIRMA,5
 803,277427,Le Loup-garou,5
-804,277427,Chronique d'une mort annonc�?©e,8
-805,277427,Le neveu d'Am�?©rique,7
+804,277427,Chronique d'une mort annoncÃ?Â©e,8
+805,277427,Le neveu d'AmÃ?Â©rique,7
 806,277427,Last Exit to Brooklyn,9
 807,277427,More George W. Bushisms: More Verbal Contortions from America's 43rd President,7
 808,277427,Therapy,10
@@ -815,7 +815,7 @@
 814,277427,Of Mice and Men (Steinbeck \Essentials\),7
 815,277427,The World's Stupidest Signs,10
 816,277427,Nessie: The Loch Ness Monster,10
-817,277427,"XIII, tome 13, L'enqu�?ªte : the XIII mystery",10
+817,277427,"XIII, tome 13, L'enquÃ?Âªte : the XIII mystery",10
 818,277427,How Not to Say What You Mean: A Dictionary of Euphemisms (Oxford Paperback Reference S.),7
 819,277427,Cooking for One (Cook's Essentials),7
 820,277427,Les Fourmis,7
@@ -824,7 +824,7 @@
 823,277432,Celtic Myths and Legends,8
 824,277433,Scottish Folk and Fairy Tales (Penguin Popular Classics),5
 825,277433,Terrible Times (Eddie Dickens Trilogy S.),7
-826,277435,Cantilènes en gelée ; Barnum's digest ; Vingt poèmes inédits (10/18 [i.e. Dix/dix-huit] ; 517),8
+826,277435,CantilÃ¨nes en gelÃ©e ; Barnum's digest ; Vingt poÃ¨mes inÃ©dits (10/18 [i.e. Dix/dix-huit] ; 517),8
 827,277436,Glasgow Zen,10
 828,277436,Totally Muffins Cookbook (Totally Cookbooks),10
 829,277436,Tigger's Little Book of Diet and Exercise,10
@@ -917,10 +917,10 @@
 916,277517,The Giver (21st Century Reference),9
 917,277519,The Heavenly Man: The Remarkable True Story of Chinese Christian Brother Yun,10
 918,277523,The Little Book of Chocolate (Little Book Of...(Flammarion)),10
-919,277523,Das Schlampenbuch. Erz�?¤hlungen. ( neue frau).,10
+919,277523,Das Schlampenbuch. ErzÃ?Â¤hlungen. ( neue frau).,10
 920,277523,Die zwei Gesichter des Januars.,10
-921,277523,Nacht �?¼ber den Wassern.,10
-922,277523,Die S�?¤ulen der Erde. Roman.,10
+921,277523,Nacht Ã?Â¼ber den Wassern.,10
+922,277523,Die SÃ?Â¤ulen der Erde. Roman.,10
 923,277523,A Man Rides Through (Man Rides Through),10
 924,277523,Mirror of Her Dreams (Mordant's Need),10
 925,277523,Reader,10
@@ -978,7 +978,7 @@
 977,277563,Border Bride,5
 978,277563,The Penwyth Curse,6
 979,277563,Xanth 15: The Color of Her Panties,7
-980,277563,Der F�?¼rst der Finsternis. Roman.,9
+980,277563,Der FÃ?Â¼rst der Finsternis. Roman.,9
 981,277563,A Reporter's Life,5
 982,277563,Jacob Marley's Christmas Carol,7
 983,277565,"Practice Makes Pregnant   Manhattan Multiples (Silhouette Special Edition, 1569)",5
@@ -1163,13 +1163,13 @@
 1162,277744,Der Magier. Der Erbe der Nacht.,10
 1163,277744,Der fremde Freund. (Drachenblut).,5
 1164,277744,Die Meute der Erben.,7
-1165,277744,Ein Mann f�?¼r jede Gelegenheit.,9
+1165,277744,Ein Mann fÃ?Â¼r jede Gelegenheit.,9
 1166,277744,Der Geteilte Himmel,10
 1167,277744,Helden wie wir.,8
-1168,277744,Schamanismus. Reisen der Seele. Magische Kr�?¤fte. Ekstase und Heilung.,6
+1168,277744,Schamanismus. Reisen der Seele. Magische KrÃ?Â¤fte. Ekstase und Heilung.,6
 1169,277746,Entdecke den Schamanen in dir. Reise in die innere Welt des Alltags.,8
 1170,277746,Das Meer und kleine Fische.,9
-1171,277748,Sofies Welt. Roman �?¼ber die Geschichte der Philosophie.,6
+1171,277748,Sofies Welt. Roman Ã?Â¼ber die Geschichte der Philosophie.,6
 1172,277752,The Book of Lost Tales 2 (The History of Middle-Earth - Volume 2),7
 1173,277752,The Book of Lost Tales 1 (The History of Middle-Earth - Volume 1),8
 1174,277756,Waking Up Screaming: Haunting Tales of Terror,7
@@ -1268,24 +1268,24 @@
 1267,277923,Ham on Rye,9
 1268,277923,Once,10
 1269,277923,Are You Experienced?,10
-1270,277923,"Oh, wie sch�?¶n ist Panama",9
+1270,277923,"Oh, wie schÃ?Â¶n ist Panama",9
 1271,277928,"Komm, wir finden einen Schatz",9
 1272,277928,Konig Babar,8
 1273,277928,Die Geschichte Von Babar,8
 1274,277928,Serafin und seine Wundermaschine.,4
 1275,277928,Ich schenk Dir meinen Mann.,8
-1276,277928,Die Pr�?¼fung.,7
+1276,277928,Die PrÃ?Â¼fung.,7
 1277,277928,Der kleine Taschentherapeut. In 60 Sekunden wieder o.k.,10
 1278,277928,Die Wolfsfrau. Die Kraft der weiblichen Urinstinkte.,7
 1279,277928,Was ist das?,10
-1280,277928,Post f�?¼r den Tiger,10
+1280,277928,Post fÃ?Â¼r den Tiger,10
 1281,277928,Das Leben der Thiere,8
 1282,277928,Choke,10
 1283,277928,Survivor : A Novel,9
 1284,277928,Gifted Trust,9
 1285,277928,"Lamb : The Gospel According to Biff, Christ's Childhood Pal",10
 1286,277928,Le Coq De Bruygre (Folio Ser; No. 1229)),6
-1287,277928,Retour �?  Brooklyn,7
+1287,277928,Retour Ã?Â  Brooklyn,7
 1288,277928,"Ask for May, Settle for June (A Doonesbury book)",7
 1289,277928,The Curse of Madame C : A Far Side Collection,10
 1290,277929,Lake Wobegon Days,9
@@ -1623,7 +1623,7 @@
 1622,278168,La Perle,6
 1623,278168,Le Meilleur des mondes,7
 1624,278172,Histoires Extraordinaires,7
-1625,278176,V�?©ronika d�?©cide de mourir,9
+1625,278176,VÃ?Â©ronika dÃ?Â©cide de mourir,9
 1626,278181,La Maison des feuilles,9
 1627,278181,Risque mortel,7
 1628,278183,"Balade au bout du monde, tome 4 : La pierre de folie",7
@@ -1771,7 +1771,7 @@
 1770,278221,AUTOBIOGRAPHY OF FBI SPECIAL AGENT DALE COOPER,8
 1771,278221,Die Zauberfrau.,10
 1772,278238,The Graywolf Annual Two : Short Stories by Women (Graywolf Annual),10
-1773,278243,Theos Reise. Roman �?¼ber die Religionen der Welt.,8
+1773,278243,Theos Reise. Roman Ã?Â¼ber die Religionen der Welt.,8
 1774,278243,The Blackwater Lightship: A Novel,8
 1775,278243,Atlantis Found,7
 1776,278243,Primary Target,8
@@ -1850,7 +1850,7 @@
 1849,278356,The Vanished Man : A Lincoln Rhyme Novel,9
 1850,278356,GARDENS IN THE DUNES: A Novel,8
 1851,278356,Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People,7
-1852,278356,The world of Pelé,8
+1852,278356,The world of PelÃ©,8
 1853,278356,Irish Mist: A Nuala Anne McGrail Novel (Nuala Anne McGrail Novels (Paperback)),9
 1854,278356,Sullivan's Island: A Lowcountry Tale,10
 1855,278356,Chromosome 6,3
@@ -2026,7 +2026,7 @@
 2025,278422,The Australia Stories: A Novel,6
 2026,278422,Crescent City Rhapsody,9
 2027,278422,Written on the Body,10
-2028,278423,Cinco días en París,8
+2028,278423,Cinco dÃ­as en ParÃ­s,8
 2029,278425,Molly Takes Flight (American Girls Short Stories),8
 2030,278425,Pregnancy and Birth: Your Questions Answered,5
 2031,278425,Lightning,5
@@ -2197,14 +2197,14 @@
 2196,278586,L'Ultimo Natale Di Guerra: A Cura Di Marco Belpoliti,5
 2197,278586,Man from the Broken Hills,8
 2198,278586,El Amor En Los Tiempos Del Colera / Love in the Times of Cholera,7
-2199,278588,Cien Años de Soledad,8
+2199,278588,Cien AÃ±os de Soledad,8
 2200,278597,The Aguero Sisters (Ballantine Reader's Circle),10
 2201,278597,The Ghost of Hannah Mendes,9
 2202,278601,Seraglio,8
 2203,278608,Portrait in Sepia : A Novel,10
 2204,278608,Daughter of Fortune: A Novel,10
 2205,278610,The Pearl (Women of Faith Fiction),8
-2206,278615,Schatten �?¼ber den Weiden.,7
+2206,278615,Schatten Ã?Â¼ber den Weiden.,7
 2207,278618,Shadow of the Hegemon,8
 2208,278620,April Fool Dead: A Death on Demand Mystery,4
 2209,278621,Chicken Soup for the College Soul : Inspiring and Humorous Stories for College Students (Chicken Soup for the Soul),8
@@ -2227,7 +2227,7 @@
 2226,278633,Dangerous to Know,9
 2227,278633,Politika (Tom Clancy's Power Plays (Paperback)),9
 2228,278633,Blood Orchid,8
-2229,278633,Im Wald der gehenkten F�?¼chse.,6
+2229,278633,Im Wald der gehenkten FÃ?Â¼chse.,6
 2230,278633,Novecento : Pianiste,5
 2231,278633,Fahrenheit 451,7
 2232,278633,The Selfish Gene,1
@@ -2275,9 +2275,9 @@
 2274,278653,Starsong (Tsr Books),6
 2275,278659,"People of the Mist (The First North Americans series, Book 9)",10
 2276,278663,Harm's Way,5
-2277,278663,Die Spinne und das M�?¤dchen.,4
+2277,278663,Die Spinne und das MÃ?Â¤dchen.,4
 2278,278663,Die Bildhauerin.,10
-2279,278663,20 Jahre 40 bleiben. Jung und sch�?¶n in den besten Jahren.,7
+2279,278663,20 Jahre 40 bleiben. Jung und schÃ?Â¶n in den besten Jahren.,7
 2280,278663,Goddess Blood: Book One of the Goddess Trilogy,3
 2281,278668,Clear and Present Danger (Jack Ryan Novels),5
 2282,278668,Time Wars,5
@@ -2391,10 +2391,10 @@
 2390,278851,McNally's Chance,8
 2391,278851,The Year's Best Horror Stories: Series XIV,10
 2392,278851,Pay It Forward: A Novel,7
-2393,278852,Bola da vez: Romance policial (Coleção Romance policial brasileiro),8
+2393,278852,Bola da vez: Romance policial (ColeÃ§Ã£o Romance policial brasileiro),8
 2394,278854,A corrente de Trewis Scott,7
-2395,278854,As valkírias,7
-2396,278854,La crónica del Perú (Crónicas de América),7
+2395,278854,As valkÃ­rias,7
+2396,278854,La crÃ³nica del PerÃº (CrÃ³nicas de AmÃ©rica),7
 2397,278854,Blast From the Past,7
 2398,278854,"A Treasury of Irish Myth, Legend, and Folklore",6
 2399,278854,Celtic Mythology (Library of the World's Myths and Legends),8
@@ -2591,12 +2591,12 @@
 2590,215,Spring Fever!,6
 2591,217,"Mi Gato Angus, El Primer Morreo Y El Pasta",8
 2592,221,Pozo y El Pendulo y Otras Historias Espeluzna,10
-2593,224,La educación de un hada,8
+2593,224,La educaciÃ³n de un hada,8
 2594,226,El Circulo Magico,8
 2595,228,13 99 Euros,7
 2596,228,"Ocho, El",9
 2597,230,Mitologia - Guia Ilustrada de Mitos del Mundo,6
-2598,232,El club Dumas (edición en español),7
+2598,232,El club Dumas (ediciÃ³n en espaÃ±ol),7
 2599,232,Falso Movimiento (Gran Angular),8
 2600,232,El Ultimo Adios,4
 2601,232,LA Tabla De Flandes,6
@@ -2855,10 +2855,10 @@
 2854,446,The Bearded Lady,8
 2855,446,Cold Comfort Farm,8
 2856,446,Revelation and the Fall of Judea,10
-2857,446,L'Ami retrouv�?©,5
+2857,446,L'Ami retrouvÃ?Â©,5
 2858,446,Lame (Collection Sextant),3
 2859,446,The Dante Club : A Novel,10
-2860,446,Der Wahnsinn der Normalit�?¤t.,10
+2860,446,Der Wahnsinn der NormalitÃ?Â¤t.,10
 2861,446,Jacob the Baker: Gentle Wisdom For a Complicated World,10
 2862,446,Jitterbug Perfume,9
 2863,446,Adventures at Sea in the Great Age of Sail: Five Firsthand Narratives,5
@@ -3028,16 +3028,16 @@
 3027,638,Talent,10
 3028,638,Carrie Pilby (Red Dress Ink (Paperback)),9
 3029,638,Free,10
-3030,638,Die L�?¶win von Aquitanien. Roman.,10
-3031,638,Die Totenw�?¤scherin.,10
+3030,638,Die LÃ?Â¶win von Aquitanien. Roman.,10
+3031,638,Die TotenwÃ?Â¤scherin.,10
 3032,638,Flush. Eine Biographie.,10
 3033,638,Venezianisches Finale. Commissario Brunettis erster Fall.,9
 3034,638,Das Tagebuch Der Bridget Jones,10
 3035,638,Der Geschichtenmacher.,10
 3036,638,The Experiment,9
 3037,638,Wie Ich Einmal Die Welt Rettete (Beck-Texte Im Dtv),10
-3038,638,Die f�?¼nfte Frau.,10
-3039,638,Die falsche F�?¤hrte.,10
+3038,638,Die fÃ?Â¼nfte Frau.,10
+3039,638,Die falsche FÃ?Â¤hrte.,10
 3040,638,Hang a Thousand Trees with Ribbons: The Story of Phillis Wheatley,9
 3041,638,Behind the Scenes at the Museum : A Novel,10
 3042,638,Fast Forward,10
@@ -3117,8 +3117,8 @@
 3116,643,Whispers,5
 3117,643,Der Poet.,9
 3118,643,Dunkles Leuchten.,9
-3119,643,"Ich, meine Freundin und all diese M�?¤nner.",8
-3120,643,Was M�?¤nner sagen.,7
+3119,643,"Ich, meine Freundin und all diese MÃ?Â¤nner.",8
+3120,643,Was MÃ?Â¤nner sagen.,7
 3121,643,Four To Score (A Stephanie Plum Novel),2
 3122,643,The Ultimate Maze Book,8
 3123,643,The STAR TREK THE RETURN,9
@@ -3133,16 +3133,16 @@
 3132,643,She Said Yes: The Unlikely Martyrdom of Cassie Bernall,8
 3133,643,B-More Careful,7
 3134,643,Champagner und Kamillentee.,8
-3135,643,Finstere Gr�?¼nde.,7
+3135,643,Finstere GrÃ?Â¼nde.,7
 3136,643,Potsdamer Ableben.,8
 3137,643,Sommer Ende Zwanzig.,8
 3138,643,Der kugelrunde Roberto.,9
-3139,643,Windm�?¤hne. ( Ab 10 J.).,7
+3139,643,WindmÃ?Â¤hne. ( Ab 10 J.).,7
 3140,643,Yeats ist tot! 15 Autoren schreiben einen sehr irischen Roman.,10
 3141,643,Ehrensache.,8
 3142,643,Das letzte Konzert.,8
-3143,643,S�?¼den und der Stra�?�?enbahntrinker.,7
-3144,643,Alberta empf�?¤ngt einen Liebhaber. Jubil�?¤ums- Edition.,8
+3143,643,SÃ?Â¼den und der StraÃ?Â?enbahntrinker.,7
+3144,643,Alberta empfÃ?Â¤ngt einen Liebhaber. JubilÃ?Â¤ums- Edition.,8
 3145,643,Precious Moments: What a Wonderful World (Golden Super Shape Book),8
 3146,643,"You'Ve Lost Your Marbles, Lickety Spilt",8
 3147,643,"The Forgotten Treasure (Book of Mormon Sleuth, Vol. 4)",6
@@ -3177,7 +3177,7 @@
 3176,651,The Safe House,7
 3177,651,The Flaming Corsage,4
 3178,651,The Scarlet Letter (Dover Thrift Editions),7
-3179,651,Ensel und Krete. Ein M�?¤rchen aus Zamonien von Hildegunst von Mythenmetz.,7
+3179,651,Ensel und Krete. Ein MÃ?Â¤rchen aus Zamonien von Hildegunst von Mythenmetz.,7
 3180,651,Humans (Neanderthal Parallax),4
 3181,651,Have Spacesuit Will Travel,8
 3182,651,Bellwether,6
@@ -3220,10 +3220,10 @@
 3219,709,La Contrebasse,4
 3220,709,Sans nouvelles de Gurb,10
 3221,709,Eureka Street,10
-3222,709,La L�?©gende d'Henry Smart,10
+3222,709,La LÃ?Â©gende d'Henry Smart,10
 3223,709,Girl With a Pearl Earring,5
-3224,709,Kleine Mordgeschichten f�?¼r Tierfreunde.,9
-3225,709,Anleitung zum Unschuldigsein. Das �?�?bungsbuch f�?¼r ein schlechtes Gewissen.,6
+3224,709,Kleine Mordgeschichten fÃ?Â¼r Tierfreunde.,9
+3225,709,Anleitung zum Unschuldigsein. Das Ã?Â?bungsbuch fÃ?Â¼r ein schlechtes Gewissen.,6
 3226,709,Das Superwieb,10
 3227,709,Wolfsherz.,9
 3228,709,The Passionate Mind: Bringing Up an Intelligent and Creative Child,8
@@ -3258,8 +3258,8 @@
 3257,739,"Gone, Baby, Gone: A Novel",9
 3258,741,The Great Victorian Collection,8
 3259,741,Different Seasons M/TV,10
-3260,741,Ein Mann für eine Nacht: Roman (Die Frau in der Gesellschaft),10
-3261,741,Das W�?¼ten der ganzen Welt.,9
+3260,741,Ein Mann fÃ¼r eine Nacht: Roman (Die Frau in der Gesellschaft),10
+3261,741,Das WÃ?Â¼ten der ganzen Welt.,9
 3262,741,Design for Dying,10
 3263,741,250 Things You Can Do to Make Your Cat Adore You,10
 3264,741,Touching from a Distance: Ian Curtis and Joy Division,3
@@ -3350,7 +3350,7 @@
 3349,805,Seeking Wholeness: Insight into the Mystery of Experience,10
 3350,805,After the Darkest Hour: How Suffering Begins the Journey to Wisdom,10
 3351,805,The Picador Book of the Beach,8
-3352,811,La variante di Lüneburg (Fabula),8
+3352,811,La variante di LÃ¼neburg (Fabula),8
 3353,818,The Color of Magic,5
 3354,819,Illusions: The Adventures of a Reluctant Messiah,5
 3355,819,The Hobbit : The Enchanting Prelude to The Lord of the Rings,7
@@ -3358,8 +3358,8 @@
 3357,819,The Hobbit,5
 3358,822,The Stand (The Complete and Uncut Edition),7
 3359,824,The Years with Laura Diaz,5
-3360,827,Die F�?¼nf Tibeter.,7
-3361,827,Die Regeln des Gl�?¼cks.,10
+3360,827,Die FÃ?Â¼nf Tibeter.,7
+3361,827,Die Regeln des GlÃ?Â¼cks.,10
 3362,827,Mittsommermord. Roman.,10
 3363,827,Der Verrat.,7
 3364,828,Russendisko.,10
@@ -3411,7 +3411,7 @@
 3410,853,"Positively 4th Street: The Lives and Times of Joan Baez, Bob Dylan, Mimi Baez Farina and Richard Farina",8
 3411,878,Chicken Soup for the Teenage Soul (Chicken Soup for the Soul),9
 3412,882,The Root Cellar,10
-3413,882,Això és Ràdio Pica (Col¨lecció Embat),10
+3413,882,AixÃ² Ã©s RÃ dio Pica (ColÂ¨lecciÃ³ Embat),10
 3414,882,Jurassic Park,5
 3415,882,Dress Your Family in Corduroy and Denim,9
 3416,882,"Ransom (Steel, Danielle)",9
@@ -3461,7 +3461,7 @@
 3460,896,Harry Potter and the Chamber of Secrets (Book 2),8
 3461,896,Mama Makes Up Her Mind: And Other Dangers of Southern Living,7
 3462,899,Running from Safety: An Adventure of the Spirit,2
-3463,899,Era bom que trocássemos umas ideias sobre o assunto: Romance (O campo da palavra),9
+3463,899,Era bom que trocÃ¡ssemos umas ideias sobre o assunto: Romance (O campo da palavra),9
 3464,899,The Pre-Raphaelite Vision (Phaidon Miniature Editions),4
 3465,899,Tales of a Fourth Grade Nothing,8
 3466,899,The Morning River : A Novel of the Great Missouri Wilderness in 1825 (Man From Boston),7
@@ -3511,7 +3511,7 @@
 3510,929,Do Androids Dream of Electric Sheep?,7
 3511,929,For the Relief of Unbearable Urges,8
 3512,929,Lucky,5
-3513,929,Atrévete a ser tú,5
+3513,929,AtrÃ©vete a ser tÃº,5
 3514,929,L'abominable crim de l'Alsina Graells (Narrativa),7
 3515,929,Tales of the Unexpected,7
 3516,929,El Vendedor De Noticias (Espasa Juvenil),8
@@ -3519,13 +3519,13 @@
 3518,929,More Than One Universe,8
 3519,929,Indigo 1: Nemesis (Indigo Series),6
 3520,929,Lais de Marie de France,4
-3521,929,La Gare des faux d�?©parts,6
+3521,929,La Gare des faux dÃ?Â©parts,6
 3522,929,99 francs: Roman,6
 3523,929,Musc,10
-3524,929,Les Quatre Accords tolt�?¨ques : La Voix de la libert�?© personnelle,9
+3524,929,Les Quatre Accords toltÃ?Â¨ques : La Voix de la libertÃ?Â© personnelle,9
 3525,929,Le Colonel Chabert,8
 3526,929,Les chemins de la faim,8
-3527,929,Vol de sucettes suivi de recel de b�?¢tons et autres nouvelles,7
+3527,929,Vol de sucettes suivi de recel de bÃ?Â¢tons et autres nouvelles,7
 3528,929,Nocturne indien,5
 3529,929,Iberia,8
 3530,929,My Favorite Bride,8
@@ -3643,7 +3643,7 @@
 3642,1075,Life Penalty,10
 3643,1075,In the Heart of the Sea: The Tragedy of the Whaleship Essex,7
 3644,1075,Picture Palace: A Novel,7
-3645,1075,Der Pferdefl�?¼sterer.,7
+3645,1075,Der PferdeflÃ?Â¼sterer.,7
 3646,1075,Bed &amp; Breakfast,5
 3647,1075,"The Way of the Apprentice (Star Wars: Jedi Quest, Book 1)",9
 3648,1075,Pandora : New Tales of the Vampires,10
@@ -3660,7 +3660,7 @@
 3659,1083,Picture Maker,7
 3660,1087,The King Must Die,9
 3661,1093,La Part manquante,6
-3662,1094,La Lumi�?¨re du monde,8
+3662,1094,La LumiÃ?Â¨re du monde,8
 3663,1095,Le scaphandre et le papillon,10
 3664,1095,Comme un roman,5
 3665,1096,Le Dictateur et le hamac,7
@@ -3800,7 +3800,7 @@
 3799,1211,Private Eyes,8
 3800,1211,Vivir Para Contarla,8
 3801,1211,Pride and Prejudice (Everyman Paperback Classics),10
-3802,1211,Amours sorci�?¨res (export),5
+3802,1211,Amours sorciÃ?Â¨res (export),5
 3803,1211,Pebble in the Sky,7
 3804,1211,Christine,9
 3805,1211,Something Wicked This Way Comes,9
@@ -3830,13 +3830,13 @@
 3829,1219,Desperation,6
 3830,1223,A spell for Chameleon (Magic of Xanth),3
 3831,1234,Damia (Ace Science Fiction),9
-3832,1235,Der Prinz und der Bottelknabe. Oder Erz�?¤hl mir vom Dow Jones. ( Ab 12 J.).,9
+3832,1235,Der Prinz und der Bottelknabe. Oder ErzÃ?Â¤hl mir vom Dow Jones. ( Ab 12 J.).,9
 3833,1235,Managing Your Mind: The Mental Fitness Guide,7
 3834,1235,It Must Have Been an Angel (Redwood Paperback; 119),9
 3835,1237,The Secret Language of Dreams: A Visual Key to Dreams and Their Meanings,8
 3836,1237,FLOWERS IN THE ATTIC (Dollanger Saga (Paperback)),8
 3837,1242,The Borrowers Avenged,7
-3838,1248,UN Viejo Que Leia Novelas De Amor/the Old Men Who Read Love Stories (Colección Andanzas),9
+3838,1248,UN Viejo Que Leia Novelas De Amor/the Old Men Who Read Love Stories (ColecciÃ³n Andanzas),9
 3839,1248,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",10
 3840,1248,Harry Potter and the Prisoner of Azkaban (Book 3),10
 3841,1248,Deadly Decisions,10
@@ -3844,30 +3844,30 @@
 3843,1248,Black May : The Epic Story of the Allies' Defeat of the German U-Boats in May 1943,6
 3844,1248,Louise Brindley Omnibus (Pb),10
 3845,1248,An incidental memoir,10
-3846,1248,El buscador de sueños (Narrativa / Huerga &amp; Fierro Editores),10
+3846,1248,El buscador de sueÃ±os (Narrativa / Huerga &amp; Fierro Editores),10
 3847,1248,Changes,10
 3848,1248,Charlotte's Web (Trophy Newbery),10
 3849,1248,Bambi (Bambi),10
 3850,1248,01-01-00: A Novel of the Millennium,10
-3851,1248,Verlorene W�?¼nsche.,9
+3851,1248,Verlorene WÃ?Â¼nsche.,9
 3852,1248,Incubus. Roman.,9
 3853,1248,Sonnenfeuer. Der grosse Australienroman.,10
 3854,1248,Die Klage des Distelfinken.,10
 3855,1248,Die Jury. Roman.,9
 3856,1248,"Der Ritter, den es nicht gab. Roman.",9
 3857,1248,Der gefallene Engel.,9
-3858,1248,Muslimische Frauen in Deutschland erz�?¤hlen �?¼ber ihren Glauben.,10
+3858,1248,Muslimische Frauen in Deutschland erzÃ?Â¤hlen Ã?Â¼ber ihren Glauben.,10
 3859,1248,Liebessabotage.,10
-3860,1248,Alistair MacLean's Zeit der Attent�?¤ter.,10
-3861,1249,Das Schweigen der L�?¤mmer.,5
-3862,1249,Die Wahrheit �?¼ber Lorin Jones. Roman.,8
+3860,1248,Alistair MacLean's Zeit der AttentÃ?Â¤ter.,10
+3861,1249,Das Schweigen der LÃ?Â¤mmer.,5
+3862,1249,Die Wahrheit Ã?Â¼ber Lorin Jones. Roman.,8
 3863,1249,Operation Schneewolf.,8
 3864,1249,Des Teufels Kardinal.,10
-3865,1250,Mit fünfzig küssen Männer anders: Roman (Die Frau in der Gesellschaft),8
-3866,1252,Die Zuckerb�?¤ckerin.,8
-3867,1254,Kleine Schw�?¤ne.,9
+3865,1250,Mit fÃ¼nfzig kÃ¼ssen MÃ¤nner anders: Roman (Die Frau in der Gesellschaft),8
+3866,1252,Die ZuckerbÃ?Â¤ckerin.,8
+3867,1254,Kleine SchwÃ?Â¤ne.,9
 3868,1254,Tango Finale.,10
-3869,1254,Los amigos que perdí,10
+3869,1254,Los amigos que perdÃ­,10
 3870,1254,Manuela (Narrativa colombiana),7
 3871,1258,Flamingofeder.,4
 3872,1259,Der Fluch des Falken.,7
@@ -3942,9 +3942,9 @@
 3941,1398,La Perla,6
 3942,1399,No Pasaran! El Videojuego,9
 3943,1399,Mecanoscrit del segon origen (El Trapezi ; 24),10
-3944,1399,L®impostor (Antaviana jove),9
+3944,1399,LÂ®impostor (Antaviana jove),9
 3945,1403,Narraciones Extraordinarias - 1 Seleccion,8
-3946,1409,Un racó de paraigua (Col¨lecció Toc de ficció),8
+3946,1409,Un racÃ³ de paraigua (ColÂ¨lecciÃ³ Toc de ficciÃ³),8
 3947,1409,Hatchet - Newbery Promo '99,8
 3948,1409,Amber Brown Is Not a Crayon (Amber Brown (Paperback)),9
 3949,1409,Girls/Suits/Lunch/PB,8
@@ -3984,7 +3984,7 @@
 3983,1424,"Mates, Dates, and Designer Divas (Mates, Dates)",7
 3984,1424,"Mates, Dates, and Cosmic Kisses (Mates, Dates)",7
 3985,1424,The Dog I.Q. Test,8
-3986,1424,Low-Carb Dieting For Dummies ,8
+3986,1424,Low-Carb Dieting For DummiesÂ ,8
 3987,1424,George Foreman's Knock-Out-The-Fat Barbecue and Grilling Cookbook,8
 3988,1424,Betty Crocker's Eat and Lose Weight,6
 3989,1424,Little Book of Low Calorie Recipes,6
@@ -4167,7 +4167,7 @@
 4166,1585,LA Mujer Habitada,7
 4167,1585,Las Chicas Buenas No Toman Postre,7
 4168,1585,Moments of Being: Second Edition,4
-4169,1585,El actor y los demás (Laia/literatura),6
+4169,1585,El actor y los demÃ¡s (Laia/literatura),6
 4170,1585,Anorexia y Bulimia - Trastornos Alimentarios,6
 4171,1585,"Maestro y Margarita, El",8
 4172,1585,Berlin Alexanderplatz,5
@@ -4586,7 +4586,7 @@
 4585,1990,Grijze Wolven: Een zoektocht naar Turks extreem-rechts,7
 4586,1990,At Ruby's,7
 4587,1990,Snow White and the Seven Samurai,7
-4588,1993,Die externe Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute (Vahlens Handbücher der Wirtschafts- und Sozialwissenschaften),10
+4588,1993,Die externe Rechnungslegung der Kreditinstitute und Finanzdienstleistungsinstitute (Vahlens HandbÃ¼cher der Wirtschafts- und Sozialwissenschaften),10
 4589,1995,The Corrections: A Novel,5
 4590,1996,Sick Puppy,8
 4591,1996,"CSI, Miami: Heat Wave",7
@@ -4609,16 +4609,16 @@
 4608,2010,Homecoming: The Southern Family in Short Fiction,8
 4609,2010,Shopgirl : A Novella,5
 4610,2010,Medicine River,2
-4611,2012,Im Caf�?© und auf der Strasse. Geschichten.,9
+4611,2012,Im CafÃ?Â© und auf der Strasse. Geschichten.,9
 4612,2012,Die Fehler des Kopisten: Botho Strauss,8
-4613,2012,Das Schimmern der Flügel: Jugendmythen,10
+4613,2012,Das Schimmern der FlÃ¼gel: Jugendmythen,10
 4614,2012,"Fursorgliche Belagerung (Fiction, Poetry and Drama)",8
 4615,2012,"Erinnerungen an Kreisau, 1930-1945",6
 4616,2012,August der Starke: Bilder einer Zeit,10
-4617,2012,Nachtbuch für Astrid (Odeon),5
+4617,2012,Nachtbuch fÃ¼r Astrid (Odeon),5
 4618,2012,Unstete Leute: Roman,2
 4619,2012,A Marriage Made in Heaven : Or Too Tired for an Affair,8
-4620,2012,Die USA im Rückspiegel: Aufzeichnungen eines Schweizer Amerika-Reisenden,8
+4620,2012,Die USA im RÃ¼ckspiegel: Aufzeichnungen eines Schweizer Amerika-Reisenden,8
 4621,2012,Der Matarese- Bund. Roman.,8
 4622,2013,Die Akte Odessa. / Das vierte Protokoll.,9
 4623,2018,Stupid White Men. Eine Abrechnung mit dem Amerika unter George W. Bush,5
@@ -4693,8 +4693,8 @@
 4692,2030,Western Civilizations,10
 4693,2030,Information Systems: A Management Perspective,10
 4694,2030,Pour en finir avec le travail,10
-4695,2030,Eloge de la fess�?©e,10
-4696,2030,Der M�?¶rder mit der Strumpfhose. Kommissar Schneider wird zum Elch.,10
+4695,2030,Eloge de la fessÃ?Â©e,10
+4696,2030,Der MÃ?Â¶rder mit der Strumpfhose. Kommissar Schneider wird zum Elch.,10
 4697,2030,Long After Midnight,10
 4698,2030,Stranger in a Strange Land (Remembering Tomorrow),5
 4699,2033,Listeners,8
@@ -4880,9 +4880,9 @@
 4879,2090,Animal Farm,8
 4880,2090,Scales of Justice (Return of the Dragon Fanuilh),10
 4881,2090,Der Steppenwolf,5
-4882,2090,Das Schwarze Auge 50. Gassengeschichten. F�?¼nfzigster Band aus der aventurischen Spielewelt.,6
+4882,2090,Das Schwarze Auge 50. Gassengeschichten. FÃ?Â¼nfzigster Band aus der aventurischen Spielewelt.,6
 4883,2090,Wintermond. Unheimlicher Roman.,5
-4884,2097,Fl�?¼stern in der Nacht.,9
+4884,2097,FlÃ?Â¼stern in der Nacht.,9
 4885,2099,Die zweite Haut.,8
 4886,2103,Tick Tock,10
 4887,2103,The Coming,10
@@ -4944,10 +4944,10 @@
 4943,2110,Tuck Everlasting,7
 4944,2110,"Circulo Magico, El - Bolsillo",7
 4945,2110,Ivan the Terrible,8
-4946,2110,El último judío,10
-4947,2110,"Te deix, amor, la mar com a penyora (Les Eines ; 12 : Sèrie narrativa)",8
-4948,2110,Listo el que lo lea: Novelas (Autores españoles e hispanoamericanos),8
-4949,2110,El árbol de la ciencia,10
+4946,2110,El Ãºltimo judÃ­o,10
+4947,2110,"Te deix, amor, la mar com a penyora (Les Eines ; 12 : SÃ¨rie narrativa)",8
+4948,2110,Listo el que lo lea: Novelas (Autores espaÃ±oles e hispanoamericanos),8
+4949,2110,El Ã¡rbol de la ciencia,10
 4950,2110,El retrato de Dorian Gray,10
 4951,2110,The Titanic Conspiracy: Cover-Ups and Mysteries of the World's Most Famous Sea Disaster,6
 4952,2110,Aztec,10
@@ -5044,18 +5044,18 @@
 5043,2139,Le Peuple du Tapis,7
 5044,2139,Contes De Ma Mere L'Oye,10
 5045,2139,Les chiennes savantes,10
-5046,2139,Les Confessions: Livres I �?  IV,10
+5046,2139,Les Confessions: Livres I Ã?Â  IV,10
 5047,2139,L'Oeil de la Sibylle,8
 5048,2141,Le faiseur de veuves. Renaissance,6
-5049,2147,Contes de la f�?©e verte,8
+5049,2147,Contes de la fÃ?Â©e verte,8
 5050,2148,Le Faiseur de veuves.,8
 5051,2152,Le nouveau soleil de Teur,7
 5052,2152,Le nouveau soleil de Teur,7
 5053,2152,La Griffe du demi-dieu,7
-5054,2152,Th�?©orie de l'art moderne,8
+5054,2152,ThÃ?Â©orie de l'art moderne,8
 5055,2155,Ou s embrasser en France,6
-5056,2163,De la b�?ªtise,7
-5057,2163,Let's go Espagne - C�?´te m�?©diterran�?©enne 2003,7
+5056,2163,De la bÃ?Âªtise,7
+5057,2163,Let's go Espagne - CÃ?Â´te mÃ?Â©diterranÃ?Â©enne 2003,7
 5058,2169,Let's go Espagne 2003,7
 5059,2170,After All These Years,8
 5060,2170,Psychotic Reactions and Carburetor Dung,7
@@ -5122,13 +5122,13 @@
 5121,2223,A Rain of Death: A Morris and Sullivan Mystery (Morris &amp; Sullivan Mystery),5
 5122,2224,White Rose:  Una Rosa Blanca (Ballantine Reader's' Circle),7
 5123,2225,Charms for the Easy Life,9
-5124,2226,Fr�?¼chte des Zorns. Roman.,9
-5125,2230,Gest�?¤ndnisse eines K�?¼chenchefs. Was Sie �?¼ber Restaurants nie wissen wollten.,2
+5124,2226,FrÃ?Â¼chte des Zorns. Roman.,9
+5125,2230,GestÃ?Â¤ndnisse eines KÃ?Â¼chenchefs. Was Sie Ã?Â¼ber Restaurants nie wissen wollten.,2
 5126,2238,Beautiful Losers,10
 5127,2238,Am Anfang war das Wort. Texte von 1969 bis 1990. ( rororo aktuell / Essay).,10
 5128,2240,"Sucht ohne Drogen: Arbeiten, Spielen, Essen, Lieben (Fischer Sachbuch)",7
-5129,2240,Herzlichst Ihre Rosa: Ausgewählte Briefe,8
-5130,2250,Niemand hat Kolumbus ausgelacht: Fälschungen und Legenden der Geschichte richtiggestellt,8
+5129,2240,Herzlichst Ihre Rosa: AusgewÃ¤hlte Briefe,8
+5130,2250,Niemand hat Kolumbus ausgelacht: FÃ¤lschungen und Legenden der Geschichte richtiggestellt,8
 5131,2253,EXAMINED LIFE,8
 5132,2255,Gardens from the Sand: A Story About Looking for Answers &amp; Finding Miracles,8
 5133,2255,Surviving the Not So Golden Years: Vital Medical and Financial Strategies for Anyone Planning to Grow Old,7
@@ -5380,22 +5380,22 @@
 5379,2296,Candide (Penguin Classics),7
 5380,2305,The Last of the Mohicans (Wordsworth Classics),7
 5381,2311,Toujours Provence.,10
-5382,2312,Auch Engel m�?¶gen's hei�?�?.,8
+5382,2312,Auch Engel mÃ?Â¶gen's heiÃ?Â?.,8
 5383,2313,Ein kleiner Tod / Weg in die Nacht. Zwei Romane in einem Band.,9
 5384,2313,Vertrauen gegen Vertrauen.,9
-5385,2313,Die geheime Botschaft unserer Speisen. Was Essen �?¼ber uns aussagt.,8
+5385,2313,Die geheime Botschaft unserer Speisen. Was Essen Ã?Â¼ber uns aussagt.,8
 5386,2313,Livealbum.,5
-5387,2313,"Survivor, die �?�?berlebende.",6
+5387,2313,"Survivor, die Ã?Â?berlebende.",6
 5388,2313,Der Werwolf von Tarker Mills. Kalendergeschichten.,6
-5389,2313,Gesch�?¶pfe der Nacht.,9
+5389,2313,GeschÃ?Â¶pfe der Nacht.,9
 5390,2313,Intensity.,5
 5391,2313,Security. Unheimlicher Roman.,9
-5392,2313,Schattenbr�?¼der.,5
-5393,2313,T�?¼r ins Dunkel / Die Spuren. Zwei spannende Psychothriller.,10
+5392,2313,SchattenbrÃ?Â¼der.,5
+5393,2313,TÃ?Â¼r ins Dunkel / Die Spuren. Zwei spannende Psychothriller.,10
 5394,2313,Das Monstrum. Tommyknockers. Roman.,8
 5395,2313,Abgrund. Nightmares and Dreamscapes.,3
 5396,2313,Nachtschicht.,5
-5397,2313,Katzenauge. Erz�?¤hlungen vom Meister des Horrors.,9
+5397,2313,Katzenauge. ErzÃ?Â¤hlungen vom Meister des Horrors.,9
 5398,2313,Im Morgengrauen. Unheimliche Geschichten.,8
 5399,2313,Der Fornit. Unheimliche Geschichten.,7
 5400,2313,Feuerkind. Thriller.,8
@@ -5461,7 +5461,7 @@
 5460,2358,El Testamento De San Juan,8
 5461,2358,Die Vertraute.,8
 5462,2358,Sternenmelodie.,8
-5463,2358,"Diana-Taschenb�?¼cher, Nr.6, Die H�?¼terin der Gew�?¼rze",6
+5463,2358,"Diana-TaschenbÃ?Â¼cher, Nr.6, Die HÃ?Â¼terin der GewÃ?Â¼rze",6
 5464,2358,Der Fluch des Kopernikus. Ein Renaissance- Roman.,7
 5465,2358,Die Alchimistin.,7
 5466,2358,Hin und weg.,7
@@ -5504,7 +5504,7 @@
 5503,2375,A Long Way from Home,7
 5504,2376,The Life of Saint Nicholas,6
 5505,2379,Los Espejos Venecianos,8
-5506,2385,Yerma (Letras hispánicas),7
+5506,2385,Yerma (Letras hispÃ¡nicas),7
 5507,2385,Lirios de Agua Para Diosa,6
 5508,2385,Patio de Corredor,8
 5509,2388,Heritage: Civilization and the Jews,6
@@ -5575,17 +5575,17 @@
 5574,2442,Gemstones (The Golden Science Close-Up Series),5
 5575,2442,Amelia Bedelia (I Can Read),10
 5576,2442,The Castle in the Attic,8
-5577,2442,Tap d'escopeta (Mínima de butxaca),7
-5578,2442,Les illes grogues: Tres novel¨les romàntiques (El Balancí),7
+5577,2442,Tap d'escopeta (MÃ­nima de butxaca),7
+5578,2442,Les illes grogues: Tres novelÂ¨les romÃ ntiques (El BalancÃ­),7
 5579,2442,Evangeli gris (Biblioteca A tot vent),10
-5580,2442,El parany suís (La Negra),10
+5580,2442,El parany suÃ­s (La Negra),10
 5581,2442,Els conys saborosos (Tros de paper),10
-5582,2442,L'adoració perpètua (Col¨lecció clássica),6
+5582,2442,L'adoraciÃ³ perpÃ¨tua (ColÂ¨lecciÃ³ clÃ¡ssica),6
 5583,2442,Els plaers ficticis,8
-5584,2442,Tríptics (El Balancí),6
-5585,2442,A la vora del pou (El Balancí),7
+5584,2442,TrÃ­ptics (El BalancÃ­),6
+5585,2442,A la vora del pou (El BalancÃ­),7
 5586,2442,Fora de joc,10
-5587,2442,Contes de f�?©es �?  l'usage des moyennes personnes,7
+5587,2442,Contes de fÃ?Â©es Ã?Â  l'usage des moyennes personnes,7
 5588,2442,Que Se Mueran Los Feos (Fabula),5
 5589,2442,El Almuerzo Desnudo,5
 5590,2442,Fahrenheit 451,10
@@ -5823,7 +5823,7 @@
 5822,2766,Last Watch Of The Night: Essays Too Personal and Otherwise,9
 5823,2766,Seasons of the Heart: Haiku,9
 5824,2766,The Wind in the Willows (Puffin Classics),9
-5825,2766,Le fran�?§ais : Cent difficult�?©s,7
+5825,2766,Le franÃ?Â§ais : Cent difficultÃ?Â©s,7
 5826,2766,Le Petit Livre des tests du francais correct,9
 5827,2766,Douce nuit,6
 5828,2766,La Maison du clair de lune,7
@@ -5831,8 +5831,8 @@
 5830,2766,Vipere Au Poing,9
 5831,2766,L'Ecume Des Jours,9
 5832,2766,Exercices de style,5
-5833,2766,La burlesque �?©quip�?©e du cycliste,9
-5834,2766,Enfants des �?©toiles,8
+5833,2766,La burlesque Ã?Â©quipÃ?Â©e du cycliste,9
+5834,2766,Enfants des Ã?Â©toiles,8
 5835,2766,Le Secret du Masque de Fer (Presses pocket),8
 5836,2766,Les Orientales ; Les Feuilles d'automne,8
 5837,2766,"Bilbo, Le Hobbit",8
@@ -5840,7 +5840,7 @@
 5839,2766,La Mort du petit cheval,7
 5840,2766,Colline,10
 5841,2766,"Le Mariage De Figaro: Comedie En Cinq Actes, 1784",6
-5842,2766,Le barbier de S�?©ville,8
+5842,2766,Le barbier de SÃ?Â©ville,8
 5843,2766,Le cycle du Graal,7
 5844,2766,Sacred Clowns (Joe Leaphorn/Jim Chee Novels),9
 5845,2766,Evening Class Uk Edition,9
@@ -5954,28 +5954,28 @@
 5953,2807,"La Cantatrice Chauve: Anti-Piece / La Lecon: Drame Comique (Collection Folio, 236)",8
 5954,2808,Elle m'appelait Miette,5
 5955,2837,The Dark Room,6
-5956,2844,La M�?©tamorphose suivi de \Dans la colonie p�?©nitentiaire\,8
-5957,2850,"Balade au bout du monde, tome 3 : Le B�?¢tard",8
+5956,2844,La MÃ?Â©tamorphose suivi de \Dans la colonie pÃ?Â©nitentiaire\,8
+5957,2850,"Balade au bout du monde, tome 3 : Le BÃ?Â¢tard",8
 5958,2853,"Balade au bout du monde, tome 2 : Grand pays",7
 5959,2853,"Balade au bout du monde, tome 1 : La prison",10
-5960,2853,Le Bon Gros G�?©ant,10
-5961,2853,Sacr�?©es sorci�?¨res,9
-5962,2853,La Triste Fin du petit Enfant Hu�?®tre et Autres histoires,8
+5960,2853,Le Bon Gros GÃ?Â©ant,10
+5961,2853,SacrÃ?Â©es sorciÃ?Â¨res,9
+5962,2853,La Triste Fin du petit Enfant HuÃ?Â®tre et Autres histoires,8
 5963,2854,Le Silence des agneaux,7
 5964,2854,The Tale of the Flopsy Bunnies,7
 5965,2854,Paddington's Shopping Adventure,5
 5966,2854,Dracula (Penguin Classics),8
-5967,2855,La Parfaite lumi�?¨re,5
+5967,2855,La Parfaite lumiÃ?Â¨re,5
 5968,2855,FLOOD : Mississippi 1927,5
 5969,2855,Si c'est un homme,5
-5970,2855,Je suis vivant et vous �?ªtes morts,7
-5971,2855,Qui a tu�?© Roger Ackroyd ?,8
+5970,2855,Je suis vivant et vous Ã?Âªtes morts,7
+5971,2855,Qui a tuÃ?Â© Roger Ackroyd ?,8
 5972,2859,"Lady Oscar : La Rose de Versailles, tome 2",5
 5973,2861,"Lady Oscar : La Rose de Versailles, tome 1",10
 5974,2863,Ou Es-Tu?,7
 5975,2864,La Ferme Des Animaux,8
 5976,2872,Lady Chatterley's Lover (Essential.penguin S.),8
-5977,2883,Les Ch�?¢timents,10
+5977,2883,Les ChÃ?Â¢timents,10
 5978,2889,Electre,8
 5979,2891,Le voyage d'hector ou le secret du,9
 5980,2891,Ubik,8
@@ -6860,7 +6860,7 @@
 6859,3594,Eva Luna,7
 6860,3594,L'amica della modellista (Narrativa),7
 6861,3594,La Mia Africa,6
-6862,3594,Mal d'amore: Come affrontare i problemi della vita sentimentale (Psicologia e personalità),6
+6862,3594,Mal d'amore: Come affrontare i problemi della vita sentimentale (Psicologia e personalitÃ ),6
 6863,3594,Samantha's Surprise: A Christmas Story (American Girls Collection (Paper)),6
 6864,3594,Changes for Samantha: A Winter Story (American Girls Collection (Paper)),7
 6865,3596,Molly's Cookbook: A Peek at Dining in the Past With Meals You Can Cook Today (American Girls Collection),10
@@ -7215,23 +7215,23 @@
 7214,3757,The Surveillance,7
 7215,3757,Federation (Star Trek),5
 7216,3757,Sherlock Holmes and the Red Demon (Sherlock Holmes Mysteries (Penguin)),9
-7217,3757,Wo ein Vogel am sch�?¶nsten singt.,7
-7218,3757,Die Luftg�?¤ngerin.,5
+7217,3757,Wo ein Vogel am schÃ?Â¶nsten singt.,7
+7218,3757,Die LuftgÃ?Â¤ngerin.,5
 7219,3757,Top Job.,7
 7220,3757,Die Felder der Ehre.,6
-7221,3757,Weites wildes Land. Der dramatische Roman des f�?¼nften Kontinents.,7
-7222,3757,Das f�?¼nfte Evangelium.,7
+7221,3757,Weites wildes Land. Der dramatische Roman des fÃ?Â¼nften Kontinents.,7
+7222,3757,Das fÃ?Â¼nfte Evangelium.,7
 7223,3757,Der Schneefalke.,7
 7224,3757,In guten wie in schlechten Tagen.,6
-7225,3757,Narrenweisheit oder Tod und Verkl�?¤rung des Jean- Jacques Rousseau.,7
+7225,3757,Narrenweisheit oder Tod und VerklÃ?Â¤rung des Jean- Jacques Rousseau.,7
 7226,3757,Die Versuchung des heiligen Antonius.,6
-7227,3757,Abgr�?¼ndig.,7
-7228,3757,�?�?bermorgen.,4
+7227,3757,AbgrÃ?Â¼ndig.,7
+7228,3757,Ã?Â?bermorgen.,4
 7229,3757,Der Sohn des Himmels.,7
 7230,3757,Ediths Tagebuch.,7
-7231,3757,"Diana-Taschenb�?¼cher, Nr.16, Das franz�?¶sische Testament",7
-7232,3757,Die St�?¼rme des Lebens. Roman.,8
-7233,3757,Holzschnitte von Frauen. Erz�?¤hlungen.,8
+7231,3757,"Diana-TaschenbÃ?Â¼cher, Nr.16, Das franzÃ?Â¶sische Testament",7
+7232,3757,Die StÃ?Â¼rme des Lebens. Roman.,8
+7233,3757,Holzschnitte von Frauen. ErzÃ?Â¤hlungen.,8
 7234,3757,Das Geheimnis der Maske.,7
 7235,3757,Browns Grabgesang. Kriminalroman.,7
 7236,3757,Die Prozedur.,7
@@ -7927,14 +7927,14 @@
 7926,4017,Alice in Wonderland and Through the Looking Glass,10
 7927,4017,Cisnes Salvajes,10
 7928,4017,El Gran Libro de La Meditacion,5
-7929,4017,Guía práctica del peregrino: El Camino de Santiago,10
+7929,4017,GuÃ­a prÃ¡ctica del peregrino: El Camino de Santiago,10
 7930,4017,Sigue Tus Suenos (El Jardin Interior),8
-7931,4017,Eva Luna (Plaza &amp; Janés/literaria),10
-7932,4017,Cuentos de Eva Luna (Plaza &amp; Janés/literaria),10
+7931,4017,Eva Luna (Plaza &amp; JanÃ©s/literaria),10
+7932,4017,Cuentos de Eva Luna (Plaza &amp; JanÃ©s/literaria),10
 7933,4017,Cuida De TI Misma: Como Cuidas De Los Demas,10
 7934,4017,La Buena Suerte: Claves de la prosperidad,10
 7935,4017,A traves del tiempo,9
-7936,4017,Dejame Que Te Cuente�? / Let Me Tell You A Story,9
+7936,4017,Dejame Que Te CuenteÂ? / Let Me Tell You A Story,9
 7937,4017,El Libro Negro de Las Grandes Marcas,9
 7938,4017,Milenium,9
 7939,4017,The Oxford-Duden Pictorial Spanish-English Dictionary,8
@@ -7943,33 +7943,33 @@
 7942,4017,Cuentos de Los Viudos Negros,9
 7943,4017,LA Lapida Templaria,10
 7944,4017,"The Subtle Knife (His Dark Materials, Book 2)",10
-7945,4017,Luces de bohemia: Esperpento (Colección austral ; no. 1307),10
+7945,4017,Luces de bohemia: Esperpento (ColecciÃ³n austral ; no. 1307),10
 7946,4017,Mi Pais Inventado,5
 7947,4017,El Pendulo de Foucault,8
 7948,4017,El Reino de Los Reprobos,10
-7949,4017,Romancero gitano ; Poema del cante jondo (Selecciones Austral ; 39 : Poesía),7
-7950,4017,Nueva antología del disparate (Colección Fábula),10
+7949,4017,Romancero gitano ; Poema del cante jondo (Selecciones Austral ; 39 : PoesÃ­a),7
+7950,4017,Nueva antologÃ­a del disparate (ColecciÃ³n FÃ¡bula),10
 7951,4017,LA Colmena,10
-7952,4017,Fundación,10
+7952,4017,FundaciÃ³n,10
 7953,4017,"Relatos 1, Los - Ritos",9
 7954,4017,Carry on Jeeves,9
-7955,4017,La abundancia a través del reiki,9
+7955,4017,La abundancia a travÃ©s del reiki,9
 7956,4017,Los pies en suelo y la cabeza en las estrelas,9
 7957,4017,Las Siete Leyes Espirituales Del Exito,9
-7958,4017,Paula (Ave fénix),8
+7958,4017,Paula (Ave fÃ©nix),8
 7959,4017,El Eneagrama,9
 7960,4017,El Principe,8
 7961,4017,Libro completo del Reiki,5
 7962,4017,Pensar La Matematica,7
-7963,4017,Historia de la vida del Buscón (Selecciones Austral ; 24 : Clásicos),10
+7963,4017,Historia de la vida del BuscÃ³n (Selecciones Austral ; 24 : ClÃ¡sicos),10
 7964,4017,Dieta para estar en la zona,5
 7965,4017,El Nombre De La Rosa/The Name Of The Rose,8
 7966,4017,Contacto/Contact,10
-7967,4017,Tratado de Las Buenas Maneras (Colección Fábula),10
+7967,4017,Tratado de Las Buenas Maneras (ColecciÃ³n FÃ¡bula),10
 7968,4017,Ensenar A Pensar,10
 7969,4017,La Casa de los Espiritus,7
 7970,4017,"Robot Dreams (Masterworks of Science Fiction and Fantasy, No 5)",10
-7971,4017,La magia de la comunicación,9
+7971,4017,La magia de la comunicaciÃ³n,9
 7972,4017,"Entrenador, El",10
 7973,4017,"Relatos 2, Los - Juegos",10
 7974,4017,Lo Peor de Cada Casa,9
@@ -7979,17 +7979,17 @@
 7978,4017,La Practica de La Meditacion,5
 7979,4017,Cuando El Calzado Es Comodo - Te Olvidas del Pie,10
 7980,4018,Aprendo a Decir No,9
-7981,4028,EQ qué es inteligencia emocional,4
+7981,4028,EQ quÃ© es inteligencia emocional,4
 7982,4032,"Senores del Cielo, Los",8
 7983,4032,Recupera Tu Autoestima / Restore Your Self Esteem,8
 7984,4033,"LA Piramide De Peter, O Lo Acabaremos Entendiendo?/the Peter Pyramid, or Will We Ever Get the Point",9
 7985,4035,Aprende Fotografia/Learn Photography,7
 7986,4035,Meditaciones Para Sanar Tu Vida,8
 7987,4044,Valle de Los Reyes,9
-7988,4045,Ayúdate,10
+7988,4045,AyÃºdate,10
 7989,4049,LA Actitud Mental Positiva: UN Camino Hacia El Exito/Success Through an Positive Mental Attitude,7
 7990,4049,Fahrenheit 451,8
-7991,4049,Las mujeres en la historia de España (Documento),9
+7991,4049,Las mujeres en la historia de EspaÃ±a (Documento),9
 7992,4049,La rueda de la vida,9
 7993,4049,Yo Estoy Bien Tu Estas Bien,6
 7994,4051,Muchas Vidas Muchos Maestros,10
@@ -8002,7 +8002,7 @@
 8001,4059,Vida Antes de La Vida,7
 8002,4066,La Fisica de La Inmortalidad,10
 8003,4066,El Libro de la Suerte,9
-8004,4066,Montañismo: Manual práctico (Colección El Buho viajero. Serie Aire libre ; 3),6
+8004,4066,MontaÃ±ismo: Manual prÃ¡ctico (ColecciÃ³n El Buho viajero. Serie Aire libre ; 3),6
 8005,4066,Misery,7
 8006,4066,El arte de amar,7
 8007,4067,Vida Y Amores De Una Maligna/the Life and Loves of a She-Devil,6
@@ -8010,18 +8010,18 @@
 8009,4075,Beltenebros (Biblioteca breve),9
 8010,4076,Azteca/Aztec,5
 8011,4076,Tu Eres Lo Que Dices,7
-8012,4077,Cuentos del tíbet,8
+8012,4077,Cuentos del tÃ­bet,8
 8013,4085,El Manuscrito Carmesi,8
 8014,4090,Manual Practico del Astronomo Aficionado,8
 8015,4090,Amate a TI Mismo: Cambiaras Tu Vida : Manual De Trabajo/141,7
-8016,4090,El triángulo (Colección Autores españoles e hispanoamericanos),8
+8016,4090,El triÃ¡ngulo (ColecciÃ³n Autores espaÃ±oles e hispanoamericanos),8
 8017,4090,Las claves de la afectividad femenina,8
 8018,4090,La Historia de San Michele,10
 8019,4091,Misterios al descubierto (Documento),9
 8020,4091,La Antidieta,5
-8021,4091,Los hijos de Sira López (Espejo de madres),5
-8022,4091,El triángulo (Colección Autores españoles e hispanoamericanos),8
-8023,4091,"Filomeno, a Mi Pesar (Colección Autores españoles e hispanoamericanos)",8
+8021,4091,Los hijos de Sira LÃ³pez (Espejo de madres),5
+8022,4091,El triÃ¡ngulo (ColecciÃ³n Autores espaÃ±oles e hispanoamericanos),8
+8023,4091,"Filomeno, a Mi Pesar (ColecciÃ³n Autores espaÃ±oles e hispanoamericanos)",8
 8024,4091,Las Amistades Peligrosas (La Sonrisa Vertical),7
 8025,4091,El Respeto Hacia Uno Mismo,8
 8026,4092,El Invierno En Lisboa,8
@@ -8164,7 +8164,7 @@
 8163,4193,Chasing Down the Dawn : Life Stories,5
 8164,4193,"Armageddon, Oil and the Middle East Crisis",7
 8165,4194,Serpent's Tooth: A Peter Decker/Rina Lazarus Novel (Peter Decker &amp; Rina Lazarus Novels (Hardcover)),6
-8166,4195,Aké: The years of childhood (Aventura : the Vintage library of contemporary world literature),6
+8166,4195,AkÃ©: The years of childhood (Aventura : the Vintage library of contemporary world literature),6
 8167,4196,The Lynchers,9
 8168,4197,"Winesburg, Ohio",7
 8169,4197,The Divine Secrets of the Ya Ya Sisterhood (Holiday Cover Edition),9
@@ -8197,7 +8197,7 @@
 8196,4216,Stealing from America: A History of Corruption from Jamestown to Reagan,8
 8197,4216,Traveling Mercies: Some Thoughts on Faith,8
 8198,4216,KARMA COLA       P (Touchstone Books (Paperback)),8
-8199,4221,L�?¤ngengrad.,9
+8199,4221,LÃ?Â¤ngengrad.,9
 8200,4221,"Man To Trust  (Trinity Street West) (Harlequin Intimate Moments, No 805)",6
 8201,4221,The Devil's Own,8
 8202,4221,Bright Star's Promise,8
@@ -8542,7 +8542,7 @@
 8541,161041,The Talk of the Town,5
 8542,161041,Rache kennt kein Gebot.,10
 8543,161041,Venezianisches Labyrinth.,10
-8544,161041,Opernball. Jubil�?¤ums- Edition.,10
+8544,161041,Opernball. JubilÃ?Â¤ums- Edition.,10
 8545,161041,Der Gute Mensch Von Sezuan,5
 8546,161041,Dear Doosie.,8
 8547,161041,Der mit dem Wolf tanzt. Der Roman zum Film.,9
@@ -8551,17 +8551,17 @@
 8550,161041,Elizabeth,10
 8551,161041,The War Between the Classes. Englischsprachige Ausgabe.,7
 8552,161041,The Guardians. (Lernmaterialien),5
-8553,161041,"Suhrkamp Taschenb�?¼cher, Nr.1, Warten auf Godot",8
-8554,161041,"Endlich Wunschgewicht. Der einfache Weg, mit Gewichtsproblemen Schlu�?�? zu machen.",10
-8555,161041,Die Markert- Di�?¤t. Schlu�?�? mit dem Jo- Jo- Effekt.,9
-8556,161041,Kerzenlicht f�?¼r eine Leiche. Mitchell und Markbys achter Fall.,8
+8553,161041,"Suhrkamp TaschenbÃ?Â¼cher, Nr.1, Warten auf Godot",8
+8554,161041,"Endlich Wunschgewicht. Der einfache Weg, mit Gewichtsproblemen SchluÃ?Â? zu machen.",10
+8555,161041,Die Markert- DiÃ?Â¤t. SchluÃ?Â? mit dem Jo- Jo- Effekt.,9
+8556,161041,Kerzenlicht fÃ?Â¼r eine Leiche. Mitchell und Markbys achter Fall.,8
 8557,161041,L' Adultera.,4
 8558,161041,Sarabande.,9
-8559,161041,In blindem Zorn. Jubil�?¤umsausgabe.,10
+8559,161041,In blindem Zorn. JubilÃ?Â¤umsausgabe.,10
 8560,161041,LEBEN WILL ICH,7
 8561,161041,Die schwarze Schatulle.,9
 8562,161041,Per Anhalter durch die Galaxis.,7
-8563,161041,Gr�?¼ne Tomaten. Roman.,8
+8563,161041,GrÃ?Â¼ne Tomaten. Roman.,8
 8564,161041,Dawson's Creek: Trouble in Paradise (Dawson's Creek),7
 8565,161041,Faceless Killers,8
 8566,161041,Details at Ten,10
